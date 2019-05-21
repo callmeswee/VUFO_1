@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 14523cb20539d4d0b9b34180949b2a19
-  - enabled: 1
+  - enabled: 0
     path: Assets/boatTexts_1.unity
     guid: fc58d1d9a1b894d3792a55c4d2ed2bf4
+  - enabled: 1
+    path: Assets/BoatText_2_spatializing.unity
+    guid: 4e2f6be93e7dc4735b7c19edd63e4e0e
   m_configObjects: {}
